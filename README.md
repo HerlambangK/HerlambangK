@@ -13,6 +13,7 @@ Saya seorang **Website Developer** di [Niagaweb](https://www.niagaweb.co.id/) By
 ### Technologies
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
 ![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
 ![MonggoDB](https://img.shields.io/badge/-MonggoDB-000?&logo=MonggoDB)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
