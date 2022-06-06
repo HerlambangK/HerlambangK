@@ -16,6 +16,7 @@ Saya seorang **Website Developer** di [Niagaweb](https://www.niagaweb.co.id/).
 ![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
 ![MonggoDB](https://img.shields.io/badge/-MonggoDB-000?&logo=MonggoDB)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![Wordpress](https://img.shields.io/badge/-Wordpress-000?&logo=Wordpress)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
 
