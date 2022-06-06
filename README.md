@@ -3,16 +3,19 @@
 Perkenalkan nama saya **Herlambang Kuswicaksonojati**.\
 
 ### Languages
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![React JS](https://img.shields.io/badge/-JavaScript-000?&logo=ReactJs)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Dart](https://img.shields.io/badge/-TypeScript-000?&logo=Dart)
+
 
 ### Technologies
-
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Flutter](https://img.shields.io/badge/-TensorFlow-000?&logo=Flutter)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+
 
 
 <p align="left">
@@ -20,6 +23,18 @@ Perkenalkan nama saya **Herlambang Kuswicaksonojati**.\
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+  
+  
+ ## 📫 Get in touch
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/herlambangk25
+) 
+
+
+ or give some ♥ on [mail](mailto:herlambangk25@gmail.com) .
+
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=adnanazmee/adnanazmee)
 
 <!--
 **HerlambangK/HerlambangK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
