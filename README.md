@@ -29,7 +29,7 @@ Saya seorang **Website Developer** di [Niagaweb](https://www.niagaweb.co.id/).
   
   
 ## 📫 Get in touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/herlambangk25) ||
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/herlambangk25) 
 
 
  or give some ♥ on [mail](mailto:herlambangk25@gmail.com) .
