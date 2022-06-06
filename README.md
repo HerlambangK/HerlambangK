@@ -5,7 +5,7 @@ Saya seorang **Website Developer** di [Niagaweb](https://www.niagaweb.co.id/).
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![React JS](https://img.shields.io/badge/-ReactJs-000?&logo=ReactJs)
+![React JS](https://img.shields.io/badge/-React-000?&logo=React)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
 
