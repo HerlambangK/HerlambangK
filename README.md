@@ -1,7 +1,8 @@
 ### Hi  👋
 
-Perkenalkan nama saya **Herlambang Kuswicaksonojati**.
-Saya seorang **Website Developer** di [Niagaweb](https://www.niagaweb.co.id/) By [Niagahoster](https://www.niagahoster.co.id/) .
+
+Introducing myself, **.I'm Herlambang Kuswicaksonojati.**.
+I am a **Website Developer** at [Niagaweb](https://www.niagaweb.co.id/) under [Niagahoster](https://www.niagahoster.co.id/) .
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
