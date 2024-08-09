@@ -2,7 +2,7 @@
 
 
 Introducing myself, **.I'm Herlambang Kuswicaksonojati.**.
-I am a **Website Developer** at [Niagaweb](https://www.niagaweb.co.id/) under [Niagahoster](https://www.niagahoster.co.id/) .
+I am a **Website Developer** .
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
